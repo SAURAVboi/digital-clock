@@ -16,7 +16,7 @@ This project is a simple **digital clock** built using **HTML**, **CSS**, and **
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/digital-clock.git
+    git clone https://github.com/your-SAURAVboi/digital-clock.git
     ```
 2. Open the `index.html` file in any web browser to see the clock in action.
 
@@ -26,7 +26,7 @@ This project is a simple **digital clock** built using **HTML**, **CSS**, and **
 - Alarm functionality.
 
 ## Live Demo
-[Check out the live demo](your-live-demo-link)
+[Check out the live demo](https://youtu.be/TxyWL_f9WTs?si=q_25F6tV26Iqtk8S)
 
 ## License
 This project is licensed under the MIT License.
